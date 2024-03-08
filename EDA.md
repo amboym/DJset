@@ -7,7 +7,6 @@ Finding a pattern within the features would be impossible. It is better to look 
 
 - Salute + Barry and Nia Archives produced the most energy throughout their sets
 ![image](https://github.com/amboym/DJset/assets/162647158/60448a12-3cf6-4c95-b9b7-1639c94bad59)
-
 ![image](https://github.com/amboym/DJset/assets/162647158/26b89688-483a-48fe-9f14-bab1b7cfe050)
 
 - Speechiness never went past 0.4
