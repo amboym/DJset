@@ -28,7 +28,7 @@ Finding a pattern within the features would be impossible. It is better to look 
 
 
 ### Key
--Average difference in key shows us that majority have changes in key below 6, but here DJ's tend to have a bit more lee-way with Keys because some songs just sound good played after eachother. The controller also allows a feature that adjusts key so if a track is not within range the DJ can adjust accordingly.
+- The average difference in key reveals that the majority of key changes fall below 6. However, DJs often have some flexibility with keys, as certain songs naturally complement each other when played sequentially. Additionally, DJ controllers offer a feature that allows for key adjustment. This feature enables DJs to adapt tracks that fall outside the desired range, ensuring smoother transitions and maintaining the overall coherence of the mix.
 - Daftpunk, Kaytranada and Me have skewed data. Daftpunk and Kaytranada = Positive Skew, This means that while most tracks have consistent or closely related keys, there are a few tracks with significantly different keys, contributing to the positive skewness of the distribution. Me = Negative Skew, Negative skewness would suggest a different pattern where the majority of tracks have significantly different keys while a few tracks exhibit more consistent or closely related keys
   
 ![image](https://github.com/amboym/DJset/assets/162647158/6f7e002f-5249-4899-9b25-7dfc97e272bd)
