@@ -1,5 +1,5 @@
 # DJ Sets Analysis : Comparing myself to my Favourite DJ's
-## Nia Archives: 
+## Nia Archives
 Nia Archives is a renowned figure in the electronic music scene, celebrated for her eclectic mixes and innovative sound. With a diverse repertoire spanning various genres, Nia  curates dynamic sets that blend elements of house, techno, and experimental beats. Her distinctive style and ability to seamlessly weave together different musical influences have earned her widespread acclaim among audiences worldwide. Through her performances and recorded mixes, Nia continues to push the boundaries of electronic music, captivating listeners with her unique sonic landscapes and infectious energy.
 
 ![image](https://github.com/amboym/DJset/assets/162647158/619d578e-3f73-4a86-bb23-db5f74a85b58)
@@ -9,7 +9,7 @@ Nia Archives is a renowned figure in the electronic music scene, celebrated for 
 ### Boiler Room Set
 https://www.youtube.com/watch?v=jO5JhZNSjUA&ab_channel=BoilerRoom
 
-## Kaytranada: 
+## Kaytranada
 Kaytranada is a groundbreaking electronic music producer and DJ known for his innovative beats and genre-defying sound. With a fusion of hip-hop, R&B, funk, and house influences, Kaytranada creates vibrant and infectious tracks that defy categorization. His production style blends intricate rhythms, soulful melodies, and infectious grooves, captivating listeners with his unique sonic palette. Kaytranada's dynamic DJ sets and electrifying live performances have earned him critical acclaim and a dedicated global following. With his distinctive sound and boundary-pushing creativity, Kaytranada continues to shape the landscape of contemporary electronic music.
 
 ![image](https://github.com/amboym/DJset/assets/162647158/41c7169d-eff5-4a9f-a4a3-882fd7346287)
@@ -27,7 +27,7 @@ Daft Punk is an iconic electronic music duo renowned for their groundbreaking co
 https://www.youtube.com/watch?v=B38CY-4Rd6s&ab_channel=LeoGalv%C3%A1n
 
 
-## Sammy Virji:
+## Sammy Virj
 Sammy Virji is a rising star in the UK garage and bass music scene, known for his infectious beats and energetic productions. With tracks like "Shapes (Oh Will)" and "Find My Way Home," Virji has garnered attention for his signature blend of garage, bassline, and UK funky sounds. His music embodies a vibrant fusion of catchy melodies, deep basslines, and rhythmic grooves that captivate listeners on dancefloors and in headphones alike. Virji's talent for crafting infectious hooks and memorable drops has earned him a dedicated following and recognition as one of the most exciting talents in contemporary electronic music. With his dynamic DJ sets and prolific releases, Sammy Virji continues to push the boundaries of bass music, leaving a lasting impact on the scene.
 
 ![image](https://github.com/amboym/DJset/assets/162647158/a3eb32a4-0e94-426f-80aa-fb3f35c60ce4)
