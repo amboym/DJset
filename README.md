@@ -35,3 +35,7 @@ __spechiness__: Speechiness detects the presence of spoken words in a track. The
 __tempo__ : The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
 
 __valence__ : A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
+
+In the notebook we show how to extract these features
+![image](https://github.com/amboym/DJset/assets/162647158/0ee4a6b0-3ae7-49d5-9156-911624bafc1b)
+
