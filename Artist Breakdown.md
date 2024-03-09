@@ -1,4 +1,6 @@
 # DJ Sets Analysis : Comparing myself to my Favourite DJ's
+- The Sets i anaylzed are not the ones listed below, i just added links to some of their sets so you could get a jist of the style of music that they mix. The tracklist i did analyze are in the spotify playlist found within the DJsetanalysis.ipynb file
+  
 ## Nia Archives
 Nia Archives is a renowned figure in the electronic music scene, celebrated for her eclectic mixes and innovative sound. With a diverse repertoire spanning various genres, Nia  curates dynamic sets that blend elements of house, techno, and experimental beats. Her distinctive style and ability to seamlessly weave together different musical influences have earned her widespread acclaim among audiences worldwide. Through her performances and recorded mixes, Nia continues to push the boundaries of electronic music, captivating listeners with her unique sonic landscapes and infectious energy.
 
