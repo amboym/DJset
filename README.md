@@ -16,7 +16,7 @@ To ensure a seamless and musically pleasing mix, DJs often employ harmonic mixin
 Although it is good practice to follow these principles, a good DJ typically finds creative ways to break them while still maintaining musical coherence and engaging the audience. This ability to deviate from traditional mixing techniques allows DJs to experiment with unexpected combinations of tracks, explore new musical avenues, and inject their sets with unique flair and personality
 
 
-## Spotify feautures
+## Spotify features
 
 __acousticness__: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.
 
